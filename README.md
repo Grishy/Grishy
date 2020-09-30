@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img 
+  src="https://bespoyasov.ru/github/pickle-rick.jpg?v1.1" 
+  alt="“Rick and Morty”, created by Justin Roiland and Dan Harmon. 2017; USA: Adult Swim" 
+  title="“Rick and Morty”, created by Justin Roiland and Dan Harmon. 2017; USA: Adult Swim" />
+
 <!--
 **Grishy/Grishy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
